@@ -46,3 +46,5 @@ WHERE category="Kitchen Supplies"
 SELECT item_name, stock_quantity 'Smart LED TV'
 FROM superstore
 WHERE item_name = 'Smart LED TV';
+
+
